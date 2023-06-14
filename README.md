@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![about myself png](/my_js.png)
 <!--
 **SergeyGetmanskiy/SergeyGetmanskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
