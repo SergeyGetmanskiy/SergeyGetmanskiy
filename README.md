@@ -10,4 +10,5 @@
 
 :email: Reach me at: getmansky1997@yandex.ru
 
-![LinkedIn](https://www.linkedin.com/in/sergey-getmanskiy-b791b927b)
+[![LinkedIn](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)]([https://www.shpavda.com/](https://www.linkedin.com/in/sergey-getmanskiy-b791b927b))
+
