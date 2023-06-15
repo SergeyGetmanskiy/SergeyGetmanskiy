@@ -10,4 +10,4 @@
 
 :email: Reach me at: getmansky1997@yandex.ru
 
-![](https://www.linkedin.com/in/sergey-getmanskiy-b791b927b)
+![LinkedIn](https://www.linkedin.com/in/sergey-getmanskiy-b791b927b)
