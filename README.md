@@ -10,4 +10,5 @@
 
 :email: Reach me at: getmansky1997@yandex.ru
 
+[![Header](/telegram.jpg)](https://www.t.me/SergeiGetmanskiy)
 [![Header](/hJ1U8QVCqMrydqHRiP.Vfw.jpg)](https://www.linkedin.com/in/sergey-getmanskiy-b791b927b)
