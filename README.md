@@ -2,7 +2,7 @@
 ### My name is Sergey Getmanskiy
 ![about myself png](/my_js.png)
 
-:heavy_check_mark: I’m currently in the middle of Yandex.Practicum 'Web-developer' course
+:heavy_check_mark: I’m currently graduating from Yandex.Practicum 'Web-developer' course
 
 :heavy_check_mark: I’m currently working on project 'Mesto' (checkout the repository)
 
